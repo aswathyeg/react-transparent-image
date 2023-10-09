@@ -1,9 +1,9 @@
 import "./App.css";
-import Card from "./components/Card";
+import TransparentCard from "./components/TransparentCard";
 function App() {
   return (
     <div className="App">
-      <Card />
+      <TransparentCard />
     </div>
   );
 }
